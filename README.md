@@ -11,14 +11,14 @@
   gtag('config', 'UA-158279240-1');
 </script>
 
-    <meta charset="utf-8">
+ <meta charset="utf-8">
     <title>Project: Travel webpage</title>
   </head>
   <body>
     
-    <h1>Travel to Costa Rica</h1>
+   <h1>Travel to Costa Rica</h1>
     
-    <p>... and you'll get to see these beauties!</p>
+   <p>... and you'll get to see these beauties!</p>
     <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Scary crocodiles" width="200"/>
   </body>
  </html>
